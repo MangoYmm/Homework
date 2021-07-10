@@ -1,7 +1,11 @@
-2021-07-10 20:09:14 INFO class-->开始 conftest.py:8
-2021-07-10 20:09:14 INFO 用例test_add_float : 开始执行0.1_0.1 Calculator.py:19
-2021-07-10 20:09:14 INFO 用例test_add_float : 开始执行0_-0.1 Calculator.py:19
-2021-07-10 20:09:14 INFO 用例test_add_float : 开始执行-0.2_-0.1 Calculator.py:19
-2021-07-10 20:09:14 INFO 用例test_add_int : 开始执行1_2 Calculator.py:12
-2021-07-10 20:09:14 INFO 用例test_add_int : 开始执行0_-1 Calculator.py:12
-2021-07-10 20:09:14 INFO class-->结束 conftest.py:10
+2021-07-10 21:39:40 INFO class-->开始 conftest.py:8
+2021-07-10 21:39:40 INFO 用例test_add_float : 开始执行0.1_0.1 Calculator.py:19
+2021-07-10 21:39:40 INFO 用例test_add_float : 开始执行0_-0.1 Calculator.py:19
+2021-07-10 21:39:40 INFO 用例test_add_float : 开始执行-0.2_-0.1 Calculator.py:19
+2021-07-10 21:39:40 INFO 开始计算 conftest.py:14
+2021-07-10 21:39:40 INFO 用例test_add_int : 开始执行1_2 Calculator.py:12
+2021-07-10 21:39:40 INFO 结束计算 conftest.py:16
+2021-07-10 21:39:40 INFO 开始计算 conftest.py:14
+2021-07-10 21:39:40 INFO 用例test_add_int : 开始执行0_-1 Calculator.py:12
+2021-07-10 21:39:40 INFO 结束计算 conftest.py:16
+2021-07-10 21:39:40 INFO class-->结束 conftest.py:10

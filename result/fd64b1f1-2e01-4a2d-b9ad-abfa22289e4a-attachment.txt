@@ -1,1 +1,0 @@
-INFO     root:Calculator.py:19 用例test_add_float : 开始执行-0.2_-0.1

@@ -1,2 +1,0 @@
-INFO     root:Calculator.py:12 用例test_add_int : 开始执行0_-1
-INFO     root:conftest.py:10 class-->结束
