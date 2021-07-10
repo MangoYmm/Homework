@@ -1,0 +1,1 @@
+INFO     root:Calculator.py:12 用例test_add_int : 开始执行1_2
